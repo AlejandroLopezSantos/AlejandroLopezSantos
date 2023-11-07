@@ -19,5 +19,5 @@ Actualmente soy un estudiante y no cuanto con muchas "skills", pero puedo nombra
 
 - He utilizado la aplicación Access para crear bases de datos.
 - He utilizado Visual Studio Code para crear archivos y páginas web en html.
-- He utilizado IntelliJ para crear programas en Java.
+- He utilizado IntelliJ para crear programas básicos en Java.
 - He utilizado diagramas de casos de uso, diagramas de secuencia, diagramas de estado y diagramas de actividad para analizar diversas situaciones.
